@@ -1,2 +1,3 @@
-#calculator 
-It is used to perform arithemtic operations.
+# calculator #
+Overview
+The Calculator is a web application built using HTML, CSS and JavaScript.It is used to perform arithemtic operations
